@@ -1,0 +1,5 @@
+Name,Filter,Object,ExposureMode,UT
+NCqk160348.fits,K,rot centre wf,frames     30.000 4, TCS UTC at start (22h:21m:57.0s)               
+NCqk160349.fits,K,rot centre wf,frames     30.000 4, TCS UTC at start (22h:25m:22.0s)               
+NCqk160350.fits,K,BD+01337 A1,frames     60.000 6, TCS UTC at start ( 22h:33m:1.0s)               
+NCqk160351.fits,K,BD+01337 B1,frames     60.000 6, TCS UTC at start (22h:39m:50.0s)               

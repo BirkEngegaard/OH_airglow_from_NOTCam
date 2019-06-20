@@ -1,0 +1,267 @@
+Name,Filter,Object,ExposureMode,UT,Grism
+NCrd170206.fits,Ks,AS26 Ks 1,frames 3.6 3, TCS UTC at start (22h:45m:12.0s)               ,OPEN
+NCrd170207.fits,Ks,AS26 Ks 2,frames 3.6 3, TCS UTC at start (22h:45m:48.0s)               ,OPEN
+NCrd170208.fits,Ks,AS26 Ks 3,frames 3.6 3, TCS UTC at start (22h:46m:31.0s)               ,OPEN
+NCrd170209.fits,Ks,AS26 Ks 4,frames 3.6 3, TCS UTC at start ( 22h:47m:6.0s)               ,OPEN
+NCrd170210.fits,Ks,AS26 Ks 5,frames 3.6 3, TCS UTC at start (22h:47m:48.0s)               ,OPEN
+NCrd170211.fits,J,AS26 J 1,frames 3.6 3, TCS UTC at start ( 22h:49m:3.0s)               ,OPEN
+NCrd170212.fits,J,AS26 J 2,frames 3.6 3, TCS UTC at start (22h:49m:42.0s)               ,OPEN
+NCrd170213.fits,J,AS26 J 3,frames 3.6 3, TCS UTC at start (22h:50m:26.0s)               ,OPEN
+NCrd170214.fits,J,AS26 J 4,frames 3.6 3, TCS UTC at start ( 22h:51m:3.0s)               ,OPEN
+NCrd170215.fits,J,AS26 J 5,frames 3.6 3, TCS UTC at start (22h:51m:47.0s)               ,OPEN
+NCrd170216.fits,H,AS26 H 1,frames 3.6 3, TCS UTC at start (22h:52m:55.0s)               ,OPEN
+NCrd170217.fits,H,AS26 H 2,frames 3.6 3, TCS UTC at start (22h:53m:38.0s)               ,OPEN
+NCrd170218.fits,H,AS26 H 3,frames 3.6 3, TCS UTC at start (22h:54m:19.0s)               ,OPEN
+NCrd170219.fits,H,AS26 H 4,frames 3.6 3, TCS UTC at start (22h:54m:56.0s)               ,OPEN
+NCrd170220.fits,H,AS26 H 5,frames 3.6 3, TCS UTC at start (22h:55m:35.0s)               ,OPEN
+NCrd170221.fits,H,AS26 H 5,frames 6.0 10, TCS UTC at start ( 23h:0m:45.0s)               ,OPEN
+NCrd170222.fits,H,AS26 H 5,frames 6.0 10, TCS UTC at start ( 23h:2m:38.0s)               ,OPEN
+NCrd170223.fits,H,0407H 1,frames 6.0 10, TCS UTC at start ( 23h:4m:55.0s)               ,OPEN
+NCrd170224.fits,H,0407H 2,frames 6.0 10, TCS UTC at start ( 23h:7m:18.0s)               ,OPEN
+NCrd170225.fits,H,0407H 3,frames 6.0 10, TCS UTC at start (  23h:9m:7.0s)               ,OPEN
+NCrd170226.fits,H,0407H 4,frames 6.0 10, TCS UTC at start (23h:10m:45.0s)               ,OPEN
+NCrd170227.fits,H,0407H 1,frames 6.0 10, TCS UTC at start (23h:12m:38.0s)               ,OPEN
+NCrd170228.fits,H,0407H 2,frames 6.0 10, TCS UTC at start (23h:14m:44.0s)               ,OPEN
+NCrd170229.fits,H,0407H 3,frames 6.0 10, TCS UTC at start ( 23h:17m:4.0s)               ,OPEN
+NCrd170230.fits,H,0407H 4,frames 6.0 10, TCS UTC at start (23h:18m:40.0s)               ,OPEN
+NCrd170231.fits,H,0407H 1,frames 6.0 10, TCS UTC at start (23h:20m:40.0s)               ,OPEN
+NCrd170232.fits,H,0407H 2,frames 6.0 10, TCS UTC at start (23h:22m:13.0s)               ,OPEN
+NCrd170233.fits,H,0407H 3,frames 6.0 10, TCS UTC at start ( 23h:24m:1.0s)               ,OPEN
+NCrd170234.fits,H,0407H 4,frames 6.0 10, TCS UTC at start (23h:25m:36.0s)               ,OPEN
+NCrd170235.fits,H,0407H 4,frames 9.0 10, TCS UTC at start (23h:30m:23.0s)               ,OPEN
+NCrd170236.fits,H,2019H 1,frames 9.0 10, TCS UTC at start (23h:32m:38.0s)               ,OPEN
+NCrd170237.fits,H,2019H 1,frames 9.0 10, TCS UTC at start (23h:34m:53.0s)               ,OPEN
+NCrd170238.fits,H,2019H 1,frames 9.0 10, TCS UTC at start (23h:41m:56.0s)               ,OPEN
+NCrd170239.fits,H,2019H 2,frames 9.0 10, TCS UTC at start ( 23h:44m:0.0s)               ,OPEN
+NCrd170240.fits,H,2019H 3,frames 9.0 10, TCS UTC at start (23h:46m:57.0s)               ,OPEN
+NCrd170241.fits,H,2019H 4,frames 9.0 10, TCS UTC at start (23h:49m:19.0s)               ,OPEN
+NCrd170242.fits,H,2019H 1,frames 9.0 10, TCS UTC at start (23h:52m:12.0s)               ,OPEN
+NCrd170243.fits,H,2019H 2,frames 9.0 10, TCS UTC at start (23h:54m:17.0s)               ,OPEN
+NCrd170244.fits,H,2019H 3,frames 9.0 10, TCS UTC at start (23h:56m:49.0s)               ,OPEN
+NCrd170245.fits,H,2019H 4,frames 9.0 10, TCS UTC at start (23h:58m:39.0s)               ,OPEN
+NCrd170246.fits,H,2019H 1,frames 9.0 10, TCS UTC at start (  0h:3m:41.0s)               ,OPEN
+NCrd170247.fits,H,2019H 2,frames 9.0 10, TCS UTC at start (  0h:5m:55.0s)               ,OPEN
+NCrd170248.fits,H,2019H 3,frames 9.0 10, TCS UTC at start (  0h:8m:49.0s)               ,OPEN
+NCrd170249.fits,H,2019H 4,frames 9.0 10, TCS UTC at start ( 0h:10m:51.0s)               ,OPEN
+NCrd170250.fits,H,2019H 4,frames 3.6 3, TCS UTC at start ( 0h:15m:23.0s)               ,OPEN
+NCrd170251.fits,Ks,2019H 4,frames 3.6 3, TCS UTC at start (  0h:17m:8.0s)               ,OPEN
+NCrd170252.fits,Ks,AS26 Ks 1,frames 3.6 3, TCS UTC at start ( 0h:17m:36.0s)               ,OPEN
+NCrd170253.fits,Ks,AS26 Ks 2,frames 3.6 3, TCS UTC at start ( 0h:18m:22.0s)               ,OPEN
+NCrd170254.fits,Ks,AS26 Ks 3,frames 3.6 3, TCS UTC at start (  0h:19m:8.0s)               ,OPEN
+NCrd170255.fits,Ks,AS26 Ks 4,frames 3.6 3, TCS UTC at start ( 0h:19m:49.0s)               ,OPEN
+NCrd170256.fits,Ks,AS26 Ks 5,frames 3.6 3, TCS UTC at start ( 0h:20m:34.0s)               ,OPEN
+NCrd170257.fits,J,AS26 Ks 5,frames 3.6 3, TCS UTC at start ( 0h:21m:25.0s)               ,OPEN
+NCrd170258.fits,J,AS26 J 1,frames 3.6 3, TCS UTC at start ( 0h:21m:54.0s)               ,OPEN
+NCrd170259.fits,J,AS26 J 2,frames 3.6 3, TCS UTC at start ( 0h:22m:38.0s)               ,OPEN
+NCrd170260.fits,J,AS26 J 3,frames 3.6 3, TCS UTC at start ( 0h:23m:19.0s)               ,OPEN
+NCrd170261.fits,J,AS26 J 4,frames 3.6 3, TCS UTC at start (  0h:24m:0.0s)               ,OPEN
+NCrd170262.fits,J,AS26 J 5,frames 3.6 3, TCS UTC at start ( 0h:24m:46.0s)               ,OPEN
+NCrd170263.fits,H,AS26 J 5,frames 3.6 3, TCS UTC at start ( 0h:25m:34.0s)               ,OPEN
+NCrd170264.fits,H,AS26 H 1,frames 3.6 3, TCS UTC at start (  0h:26m:3.0s)               ,OPEN
+NCrd170265.fits,H,AS26 H 2,frames 3.6 3, TCS UTC at start ( 0h:26m:57.0s)               ,OPEN
+NCrd170266.fits,H,AS26 H 3,frames 3.6 3, TCS UTC at start ( 0h:27m:43.0s)               ,OPEN
+NCrd170267.fits,H,AS26 H 4,frames 3.6 3, TCS UTC at start ( 0h:28m:23.0s)               ,OPEN
+NCrd170268.fits,H,AS26 H 5,frames 3.6 3, TCS UTC at start (  0h:29m:5.0s)               ,OPEN
+NCrd170288.fits,J,BD+332642,frames 4.0 4, TCS UTC at start ( 1h:25m:50.0s)               ,OPEN
+NCrd170289.fits,J,zp_std p135 1,frames 4.0 4, TCS UTC at start ( 1h:29m:11.0s)               ,OPEN
+NCrd170290.fits,J,zp_std p90 1,frames 4.0 4, TCS UTC at start ( 1h:29m:49.0s)               ,OPEN
+NCrd170291.fits,J,zp_std p45 1,frames 4.0 4, TCS UTC at start ( 1h:30m:36.0s)               ,OPEN
+NCrd170292.fits,J,zp_std p0 1,frames 4.0 4, TCS UTC at start ( 1h:31m:17.0s)               ,OPEN
+NCrd170293.fits,J,zp_std p135 2,frames 4.0 4, TCS UTC at start ( 1h:32m:26.0s)               ,OPEN
+NCrd170294.fits,J,zp_std p90 2,frames 4.0 4, TCS UTC at start (  1h:33m:6.0s)               ,OPEN
+NCrd170295.fits,J,zp_std p45 2,frames 4.0 4, TCS UTC at start ( 1h:33m:45.0s)               ,OPEN
+NCrd170296.fits,J,zp_std p0 2,frames 4.0 4, TCS UTC at start ( 1h:34m:27.0s)               ,OPEN
+NCrd170297.fits,J,zp_std p135 3,frames 4.0 4, TCS UTC at start ( 1h:35m:42.0s)               ,OPEN
+NCrd170298.fits,J,zp_std p90 3,frames 4.0 4, TCS UTC at start ( 1h:36m:21.0s)               ,OPEN
+NCrd170299.fits,J,zp_std p45 3,frames 4.0 4, TCS UTC at start (  1h:37m:0.0s)               ,OPEN
+NCrd170300.fits,J,zp_std p0 3,frames 4.0 4, TCS UTC at start ( 1h:37m:57.0s)               ,OPEN
+NCrd170301.fits,J,zp_std p135 4,frames 4.0 4, TCS UTC at start ( 1h:39m:21.0s)               ,OPEN
+NCrd170302.fits,J,zp_std p90 4,frames 4.0 4, TCS UTC at start (  1h:40m:0.0s)               ,OPEN
+NCrd170303.fits,J,zp_std p45 4,frames 4.0 4, TCS UTC at start ( 1h:40m:39.0s)               ,OPEN
+NCrd170304.fits,J,zp_std p0 4,frames 4.0 4, TCS UTC at start ( 1h:41m:19.0s)               ,OPEN
+NCrd170305.fits,J,zp_std p135 5,frames 4.0 4, TCS UTC at start ( 1h:42m:35.0s)               ,OPEN
+NCrd170306.fits,J,zp_std p90 5,frames 4.0 4, TCS UTC at start ( 1h:43m:16.0s)               ,OPEN
+NCrd170307.fits,J,zp_std p45 5,frames 4.0 4, TCS UTC at start ( 1h:43m:54.0s)               ,OPEN
+NCrd170308.fits,J,zp_std p0 5,frames 4.0 4, TCS UTC at start ( 1h:44m:35.0s)               ,OPEN
+NCrd170309.fits,Ks,zp_std p135 1,frames 4.0 4, TCS UTC at start ( 1h:47m:12.0s)               ,OPEN
+NCrd170310.fits,Ks,zp_std p90 1,frames 4.0 4, TCS UTC at start ( 1h:47m:51.0s)               ,OPEN
+NCrd170311.fits,Ks,zp_std p45 1,frames 4.0 4, TCS UTC at start ( 1h:48m:31.0s)               ,OPEN
+NCrd170312.fits,Ks,zp_std p0 1,frames 4.0 4, TCS UTC at start ( 1h:49m:10.0s)               ,OPEN
+NCrd170313.fits,Ks,zp_std p135 2,frames 4.0 4, TCS UTC at start ( 1h:50m:19.0s)               ,OPEN
+NCrd170314.fits,Ks,zp_std p90 2,frames 4.0 4, TCS UTC at start ( 1h:50m:58.0s)               ,OPEN
+NCrd170315.fits,Ks,zp_std p45 2,frames 4.0 4, TCS UTC at start ( 1h:51m:39.0s)               ,OPEN
+NCrd170316.fits,Ks,zp_std p0 2,frames 4.0 4, TCS UTC at start ( 1h:52m:19.0s)               ,OPEN
+NCrd170317.fits,Ks,zp_std p135 3,frames 4.0 4, TCS UTC at start ( 1h:53m:32.0s)               ,OPEN
+NCrd170318.fits,Ks,zp_std p90 3,frames 4.0 4, TCS UTC at start ( 1h:54m:11.0s)               ,OPEN
+NCrd170319.fits,Ks,zp_std p45 3,frames 4.0 4, TCS UTC at start ( 1h:54m:49.0s)               ,OPEN
+NCrd170320.fits,Ks,zp_std p0 3,frames 4.0 4, TCS UTC at start ( 1h:55m:35.0s)               ,OPEN
+NCrd170321.fits,Ks,zp_std p135 4,frames 4.0 4, TCS UTC at start ( 1h:56m:43.0s)               ,OPEN
+NCrd170322.fits,Ks,zp_std p90 4,frames 4.0 4, TCS UTC at start ( 1h:57m:25.0s)               ,OPEN
+NCrd170323.fits,Ks,zp_std p45 4,frames 4.0 4, TCS UTC at start (  1h:58m:5.0s)               ,OPEN
+NCrd170324.fits,Ks,zp_std p0 4,frames 4.0 4, TCS UTC at start ( 1h:58m:45.0s)               ,OPEN
+NCrd170325.fits,Ks,zp_std p135 5,frames 4.0 4, TCS UTC at start (   2h:0m:4.0s)               ,OPEN
+NCrd170326.fits,Ks,zp_std p90 5,frames 4.0 4, TCS UTC at start (  2h:0m:43.0s)               ,OPEN
+NCrd170327.fits,Ks,zp_std p45 5,frames 4.0 4, TCS UTC at start (  2h:1m:24.0s)               ,OPEN
+NCrd170328.fits,Ks,zp_std p0 5,frames 4.0 4, TCS UTC at start (   2h:2m:4.0s)               ,OPEN
+NCrd170329.fits,H,zp_std p0 5,frames 10.0 6, TCS UTC at start ( 2h:12m:47.0s)               ,OPEN
+NCrd170330.fits,H,QSO 1,frames 10.0 6, TCS UTC at start ( 2h:20m:42.0s)               ,OPEN
+NCrd170331.fits,H,QSO 2,frames 10.0 6, TCS UTC at start (  2h:22m:7.0s)               ,OPEN
+NCrd170332.fits,H,QSO 3,frames 10.0 6, TCS UTC at start ( 2h:23m:33.0s)               ,OPEN
+NCrd170333.fits,H,QSO 4,frames 10.0 6, TCS UTC at start ( 2h:25m:22.0s)               ,OPEN
+NCrd170334.fits,H,QSO 5,frames 10.0 6, TCS UTC at start (  2h:27m:6.0s)               ,OPEN
+NCrd170335.fits,H,QSO 6,frames 10.0 6, TCS UTC at start ( 2h:28m:35.0s)               ,OPEN
+NCrd170336.fits,H,QSO 7,frames 10.0 6, TCS UTC at start ( 2h:30m:22.0s)               ,OPEN
+NCrd170337.fits,H,QSO 8,frames 10.0 6, TCS UTC at start (  2h:32m:8.0s)               ,OPEN
+NCrd170338.fits,H,QSO 9,frames 10.0 6, TCS UTC at start ( 2h:33m:41.0s)               ,OPEN
+NCrd170339.fits,H,QSO 10,frames 10.0 6, TCS UTC at start ( 2h:35m:37.0s)               ,OPEN
+NCrd170340.fits,H,QSO 11,frames 10.0 6, TCS UTC at start ( 2h:37m:21.0s)               ,OPEN
+NCrd170341.fits,H,QSO 12,frames 10.0 6, TCS UTC at start ( 2h:38m:49.0s)               ,OPEN
+NCrd170342.fits,H,QSO 13,frames 10.0 6, TCS UTC at start ( 2h:40m:20.0s)               ,OPEN
+NCrd170343.fits,H,QSO 14,frames 10.0 6, TCS UTC at start ( 2h:41m:59.0s)               ,OPEN
+NCrd170344.fits,H,QSO 15,frames 10.0 6, TCS UTC at start (  2h:44m:0.0s)               ,OPEN
+NCrd170345.fits,H,QSO 16,frames 10.0 6, TCS UTC at start ( 2h:45m:24.0s)               ,OPEN
+NCrd170346.fits,H,M57,frames 5.0 5, TCS UTC at start ( 2h:51m:43.0s)               ,OPEN
+NCrd170347.fits,H,M57,frames 5.0 5, TCS UTC at start ( 2h:52m:56.0s)               ,OPEN
+NCrd170348.fits,H,M57 1,frames 10.0 10, TCS UTC at start ( 2h:55m:49.0s)               ,OPEN
+NCrd170349.fits,H,sky 1,frames 10.0 10, TCS UTC at start ( 2h:58m:55.0s)               ,OPEN
+NCrd170350.fits,H,M57 2,frames 10.0 10, TCS UTC at start (  3h:1m:12.0s)               ,OPEN
+NCrd170351.fits,H,sky 2,frames 10.0 10, TCS UTC at start (  3h:3m:54.0s)               ,OPEN
+NCrd170352.fits,H,M57 3,frames 10.0 10, TCS UTC at start (  3h:6m:58.0s)               ,OPEN
+NCrd170353.fits,H,sky 3,frames 10.0 10, TCS UTC at start (  3h:10m:5.0s)               ,OPEN
+NCrd170354.fits,H,M57 4,frames 10.0 10, TCS UTC at start ( 3h:12m:43.0s)               ,OPEN
+NCrd170355.fits,H,sky 4,frames 10.0 10, TCS UTC at start ( 3h:15m:45.0s)               ,OPEN
+NCrd170356.fits,H,M57 5,frames 10.0 10, TCS UTC at start ( 3h:18m:45.0s)               ,OPEN
+NCrd170357.fits,H,sky 5,frames 10.0 10, TCS UTC at start ( 3h:21m:43.0s)               ,OPEN
+NCrd170358.fits,H,M57 6,frames 10.0 10, TCS UTC at start ( 3h:24m:46.0s)               ,OPEN
+NCrd170359.fits,H,sky 6,frames 10.0 10, TCS UTC at start (  3h:27m:1.0s)               ,OPEN
+NCrd170360.fits,H2 2122,M57 1,frames 10.0 6, TCS UTC at start (  3h:33m:4.0s)               ,OPEN
+NCrd170361.fits,H2 2122,sky 1,frames 10.0 6, TCS UTC at start ( 3h:34m:42.0s)               ,OPEN
+NCrd170362.fits,H2 2122,M57 2,frames 10.0 6, TCS UTC at start ( 3h:36m:27.0s)               ,OPEN
+NCrd170363.fits,H2 2122,sky 2,frames 10.0 6, TCS UTC at start ( 3h:37m:53.0s)               ,OPEN
+NCrd170364.fits,H2 2122,M57 3,frames 10.0 6, TCS UTC at start ( 3h:39m:56.0s)               ,OPEN
+NCrd170365.fits,H2 2122,sky 3,frames 10.0 6, TCS UTC at start ( 3h:41m:33.0s)               ,OPEN
+NCrd170366.fits,H2 2122,M57 4,frames 10.0 6, TCS UTC at start ( 3h:43m:29.0s)               ,OPEN
+NCrd170367.fits,H2 2122,sky 4,frames 10.0 6, TCS UTC at start (  3h:45m:0.0s)               ,OPEN
+NCrd170368.fits,H2 2122,M57 5,frames 10.0 6, TCS UTC at start ( 3h:46m:34.0s)               ,OPEN
+NCrd170369.fits,H2 2122,sky 5,frames 10.0 6, TCS UTC at start ( 3h:48m:27.0s)               ,OPEN
+NCrd170370.fits,H2 2122,M57 6,frames 10.0 6, TCS UTC at start ( 3h:49m:58.0s)               ,OPEN
+NCrd170371.fits,H2 2122,sky 6,frames 10.0 6, TCS UTC at start ( 3h:51m:31.0s)               ,OPEN
+NCrd170372.fits,Ks,hp_std p135 1,expose 3.0, TCS UTC at start ( 3h:56m:38.0s)               ,OPEN
+NCrd170373.fits,Ks,hp_std p90 1,expose 3.0, TCS UTC at start ( 3h:56m:59.0s)               ,OPEN
+NCrd170374.fits,Ks,hp_std p45 1,expose 3.0, TCS UTC at start ( 3h:57m:20.0s)               ,OPEN
+NCrd170375.fits,Ks,hp_std p0 1,expose 3.0, TCS UTC at start ( 3h:57m:40.0s)               ,OPEN
+NCrd170376.fits,Ks,hp_std p135 2,expose 3.0, TCS UTC at start ( 3h:58m:30.0s)               ,OPEN
+NCrd170377.fits,Ks,hp_std p90 2,expose 3.0, TCS UTC at start ( 3h:58m:51.0s)               ,OPEN
+NCrd170378.fits,Ks,hp_std p45 2,expose 3.0, TCS UTC at start ( 3h:59m:14.0s)               ,OPEN
+NCrd170379.fits,Ks,hp_std p0 2,expose 3.0, TCS UTC at start ( 3h:59m:35.0s)               ,OPEN
+NCrd170380.fits,Ks,hp_std p135 3,expose 3.0, TCS UTC at start (  4h:0m:27.0s)               ,OPEN
+NCrd170381.fits,Ks,hp_std p90 3,expose 3.0, TCS UTC at start (  4h:0m:48.0s)               ,OPEN
+NCrd170382.fits,Ks,hp_std p45 3,expose 3.0, TCS UTC at start (  4h:1m:10.0s)               ,OPEN
+NCrd170383.fits,Ks,hp_std p0 3,expose 3.0, TCS UTC at start (  4h:1m:30.0s)               ,OPEN
+NCrd170384.fits,Ks,hp_std p135 4,expose 3.0, TCS UTC at start (  4h:2m:14.0s)               ,OPEN
+NCrd170385.fits,Ks,hp_std p90 4,expose 3.0, TCS UTC at start (  4h:2m:35.0s)               ,OPEN
+NCrd170386.fits,Ks,hp_std p45 4,expose 3.0, TCS UTC at start (  4h:2m:52.0s)               ,OPEN
+NCrd170387.fits,Ks,hp_std p0 4,expose 3.0, TCS UTC at start (  4h:3m:11.0s)               ,OPEN
+NCrd170388.fits,Ks,hp_std p135 5,expose 3.0, TCS UTC at start (  4h:3m:59.0s)               ,OPEN
+NCrd170389.fits,Ks,hp_std p90 5,expose 3.0, TCS UTC at start (  4h:4m:17.0s)               ,OPEN
+NCrd170390.fits,Ks,hp_std p45 5,expose 3.0, TCS UTC at start (  4h:4m:47.0s)               ,OPEN
+NCrd170391.fits,Ks,hp_std p0 5,expose 3.0, TCS UTC at start (   4h:5m:5.0s)               ,OPEN
+NCrd170392.fits,H,Oph-Elia2,frames 4.0 4, TCS UTC at start (  4h:7m:30.0s)               ,OPEN
+NCrd170393.fits,H,Oph-Elia2,frames 5.0 5, TCS UTC at start (  4h:8m:24.0s)               ,OPEN
+NCrd170394.fits,H,hp_std p135 1,frames 5.0 5, TCS UTC at start ( 4h:10m:40.0s)               ,OPEN
+NCrd170395.fits,H,hp_std p90 1,frames 5.0 5, TCS UTC at start ( 4h:11m:27.0s)               ,OPEN
+NCrd170396.fits,H,hp_std p45 1,frames 5.0 5, TCS UTC at start (  4h:12m:8.0s)               ,OPEN
+NCrd170397.fits,H,hp_std p0 1,frames 5.0 5, TCS UTC at start ( 4h:12m:49.0s)               ,OPEN
+NCrd170398.fits,H,hp_std p135 2,frames 5.0 5, TCS UTC at start ( 4h:13m:59.0s)               ,OPEN
+NCrd170399.fits,H,hp_std p90 2,frames 5.0 5, TCS UTC at start ( 4h:14m:40.0s)               ,OPEN
+NCrd170400.fits,H,hp_std p45 2,frames 5.0 5, TCS UTC at start ( 4h:15m:20.0s)               ,OPEN
+NCrd170401.fits,H,hp_std p0 2,frames 5.0 5, TCS UTC at start (  4h:16m:1.0s)               ,OPEN
+NCrd170402.fits,H,hp_std p135 3,frames 5.0 5, TCS UTC at start ( 4h:17m:13.0s)               ,OPEN
+NCrd170403.fits,H,hp_std p90 3,frames 5.0 5, TCS UTC at start ( 4h:17m:54.0s)               ,OPEN
+NCrd170404.fits,H,hp_std p45 3,frames 5.0 5, TCS UTC at start ( 4h:18m:36.0s)               ,OPEN
+NCrd170405.fits,H,hp_std p0 3,frames 5.0 5, TCS UTC at start ( 4h:19m:19.0s)               ,OPEN
+NCrd170406.fits,H,hp_std p135 4,frames 5.0 5, TCS UTC at start ( 4h:20m:33.0s)               ,OPEN
+NCrd170407.fits,H,hp_std p90 4,frames 5.0 5, TCS UTC at start ( 4h:21m:15.0s)               ,OPEN
+NCrd170408.fits,H,hp_std p45 4,frames 5.0 5, TCS UTC at start ( 4h:21m:56.0s)               ,OPEN
+NCrd170409.fits,H,hp_std p0 4,frames 5.0 5, TCS UTC at start ( 4h:22m:38.0s)               ,OPEN
+NCrd170410.fits,H,hp_std p135 5,frames 5.0 5, TCS UTC at start ( 4h:23m:53.0s)               ,OPEN
+NCrd170411.fits,H,hp_std p90 5,frames 5.0 5, TCS UTC at start ( 4h:24m:49.0s)               ,OPEN
+NCrd170412.fits,H,hp_std p45 5,frames 5.0 5, TCS UTC at start ( 4h:25m:30.0s)               ,OPEN
+NCrd170413.fits,H,hp_std p0 5,frames 5.0 5, TCS UTC at start ( 4h:26m:13.0s)               ,OPEN
+NCrd170414.fits,OPEN,M57,frames 10.0 6, TCS UTC at start ( 4h:29m:32.0s)               ,OPEN
+NCrd170415.fits,OPEN,M57,frames 10.0 6, TCS UTC at start ( 4h:31m:37.0s)               ,OPEN
+NCrd170416.fits,J,M57,frames 10.0 6, TCS UTC at start ( 4h:34m:58.0s)               ,OPEN
+NCrd170417.fits,J,M57 1,frames 10.0 6, TCS UTC at start ( 4h:37m:12.0s)               ,OPEN
+NCrd170418.fits,J,sky 1,frames 10.0 6, TCS UTC at start ( 4h:38m:46.0s)               ,OPEN
+NCrd170419.fits,J,M57 2,frames 10.0 6, TCS UTC at start ( 4h:40m:17.0s)               ,OPEN
+NCrd170420.fits,J,sky 2,frames 10.0 6, TCS UTC at start ( 4h:41m:53.0s)               ,OPEN
+NCrd170421.fits,J,M57 3,frames 10.0 6, TCS UTC at start ( 4h:43m:43.0s)               ,OPEN
+NCrd170422.fits,J,sky 3,frames 10.0 6, TCS UTC at start ( 4h:45m:33.0s)               ,OPEN
+NCrd170423.fits,J,M57 4,frames 10.0 6, TCS UTC at start ( 4h:47m:18.0s)               ,OPEN
+NCrd170424.fits,J,sky 4,frames 10.0 6, TCS UTC at start ( 4h:48m:45.0s)               ,OPEN
+NCrd170425.fits,J,M57 5,frames 10.0 6, TCS UTC at start ( 4h:50m:14.0s)               ,OPEN
+NCrd170426.fits,J,sky 5,frames 10.0 6, TCS UTC at start ( 4h:51m:55.0s)               ,OPEN
+NCrd170427.fits,J,M57 6,frames 10.0 6, TCS UTC at start ( 4h:53m:49.0s)               ,OPEN
+NCrd170428.fits,J,sky 6,frames 10.0 6, TCS UTC at start ( 4h:55m:23.0s)               ,OPEN
+NCrd170429.fits,K,Sy1,expose 3.0, TCS UTC at start ( 4h:59m:32.0s)               ,OPEN
+NCrd170430.fits,K,Sy1,expose 3.0, TCS UTC at start (  5h:3m:51.0s)               ,OPEN
+NCrd170431.fits,K,Sy1,expose 3.0, TCS UTC at start (  5h:7m:41.0s)               ,OPEN
+NCrd170432.fits,K,Sy1,expose 3.0, TCS UTC at start (  5h:8m:35.0s)               ,OPEN
+NCrd170433.fits,K,frame10x11 1,frames 10.0 11, TCS UTC at start ( 5h:10m:41.0s)               ,Grism#1
+NCrd170434.fits,K,frame10x11 2,frames 10.0 11, TCS UTC at start ( 5h:13m:17.0s)               ,Grism#1
+NCrd170435.fits,K,Ha_flat_K 1,frames 7.0 3, TCS UTC at start (  5h:18m:2.0s)               ,Grism#1
+NCrd170436.fits,K,Ha_flat_K 1,frames 3.6 3, TCS UTC at start ( 5h:19m:57.0s)               ,Grism#1
+NCrd170437.fits,K,Ha_flat_K 1,expose 5.0, TCS UTC at start ( 5h:20m:56.0s)               ,Grism#1
+NCrd170438.fits,K,Xe_arc_K 1,expose 10.0, TCS UTC at start ( 5h:22m:21.0s)               ,Grism#1
+NCrd170439.fits,K,Xe_arc_K 1,expose 20.0, TCS UTC at start (  5h:23m:8.0s)               ,Grism#1
+NCrd170440.fits,K,Ar_arc_K 1,expose 10.0, TCS UTC at start ( 5h:24m:34.0s)               ,Grism#1
+NCrd170441.fits,K,Ar_arc_K 1,expose 5.0, TCS UTC at start ( 5h:25m:17.0s)               ,Grism#1
+NCrd170442.fits,K,HIP90271,expose 0.5, TCS UTC at start ( 5h:27m:58.0s)               ,Grism#1
+NCrd170443.fits,K,HIP90271,expose 1.0, TCS UTC at start ( 5h:28m:46.0s)               ,Grism#1
+NCrd170444.fits,K,HIP90271,expose 5.0, TCS UTC at start ( 5h:31m:27.0s)               ,Grism#1
+NCrd170445.fits,K,HIP90271,expose 0.5, TCS UTC at start ( 5h:31m:59.0s)               ,OPEN
+NCrd170446.fits,K,HIP90271,expose 0.5, TCS UTC at start ( 5h:32m:44.0s)               ,OPEN
+NCrd170447.fits,K,frame10x3 1,frames 10.0 3, TCS UTC at start (  5h:34m:5.0s)               ,Grism#1
+NCrd170448.fits,K,frame10x3 2,frames 10.0 3, TCS UTC at start ( 5h:34m:57.0s)               ,Grism#1
+NCrd170449.fits,K,Ha_flat_K 1,expose 5.0, TCS UTC at start ( 5h:36m:59.0s)               ,Grism#1
+NCrd170450.fits,K,Xe_arc_K 1,expose 20.0, TCS UTC at start ( 5h:37m:59.0s)               ,Grism#1
+NCrd170451.fits,K,Ar_arc_K 1,expose 5.0, TCS UTC at start ( 5h:38m:47.0s)               ,Grism#1
+NCrd170452.fits,OPEN,M57,frames 10.0 6, TCS UTC at start ( 5h:45m:49.0s)               ,OPEN
+NCrd170453.fits,OPEN,M57,frames 10.0 6, TCS UTC at start ( 5h:47m:35.0s)               ,OPEN
+NCrd170454.fits,Ks,M57,frames 10.0 6, TCS UTC at start ( 5h:50m:23.0s)               ,OPEN
+NCrd170455.fits,Ks,M57 1,frames 10.0 6, TCS UTC at start ( 5h:52m:29.0s)               ,OPEN
+NCrd170456.fits,Ks,sky 1,frames 10.0 6, TCS UTC at start (  5h:54m:3.0s)               ,OPEN
+NCrd170457.fits,Ks,M57 2,frames 10.0 6, TCS UTC at start ( 5h:55m:21.0s)               ,OPEN
+NCrd170458.fits,Ks,sky 2,frames 10.0 6, TCS UTC at start (  5h:57m:2.0s)               ,OPEN
+NCrd170459.fits,Ks,M57 3,frames 10.0 6, TCS UTC at start ( 5h:58m:33.0s)               ,OPEN
+NCrd170460.fits,Ks,sky 3,frames 10.0 6, TCS UTC at start (  6h:0m:18.0s)               ,OPEN
+NCrd170461.fits,Ks,M57 4,frames 10.0 6, TCS UTC at start (  6h:1m:49.0s)               ,OPEN
+NCrd170462.fits,Ks,sky 4,frames 10.0 6, TCS UTC at start (  6h:3m:21.0s)               ,OPEN
+NCrd170463.fits,Ks,M57 5,frames 10.0 6, TCS UTC at start (   6h:5m:5.0s)               ,OPEN
+NCrd170464.fits,Ks,sky 5,frames 10.0 6, TCS UTC at start (  6h:6m:38.0s)               ,OPEN
+NCrd170465.fits,Ks,M57 6,frames 10.0 6, TCS UTC at start (  6h:8m:12.0s)               ,OPEN
+NCrd170466.fits,Ks,sky 6,frames 10.0 6, TCS UTC at start (  6h:9m:44.0s)               ,OPEN
+NCrd170518.fits,K,Ha_flat_K_on,expose 5.0, TCS UTC at start ( 6h:56m:18.0s)               ,Grism#1
+NCrd170519.fits,K,Ha_flat_K_on,expose 5.0, TCS UTC at start ( 6h:56m:34.0s)               ,Grism#1
+NCrd170520.fits,K,Ha_flat_K_on,expose 5.0, TCS UTC at start ( 6h:56m:51.0s)               ,Grism#1
+NCrd170521.fits,K,Ha_flat_K_on,expose 5.0, TCS UTC at start (  6h:57m:8.0s)               ,Grism#1
+NCrd170522.fits,K,Ha_flat_K_on,expose 5.0, TCS UTC at start ( 6h:57m:24.0s)               ,Grism#1
+NCrd170523.fits,K,Ha_flat_K_on,expose 5.0, TCS UTC at start ( 6h:57m:40.0s)               ,Grism#1
+NCrd170524.fits,K,Ha_flat_K_off,expose 5.0, TCS UTC at start ( 6h:58m:22.0s)               ,Grism#1
+NCrd170525.fits,K,Ha_flat_K_off,expose 5.0, TCS UTC at start ( 6h:58m:39.0s)               ,Grism#1
+NCrd170526.fits,K,Ha_flat_K_off,expose 5.0, TCS UTC at start ( 6h:58m:56.0s)               ,Grism#1
+NCrd170527.fits,K,Ha_flat_K_off,expose 5.0, TCS UTC at start ( 6h:59m:12.0s)               ,Grism#1
+NCrd170528.fits,K,Ha_flat_K_off,expose 5.0, TCS UTC at start ( 6h:59m:29.0s)               ,Grism#1
+NCrd170529.fits,K,Ha_flat_K_off,expose 5.0, TCS UTC at start ( 6h:59m:45.0s)               ,Grism#1
+NCrd170530.fits,K,dframe 10 11,dframes 10.0 11, TCS UTC at start (  7h:1m:44.0s)               ,Grism#1
+NCrd170531.fits,K,dframe 10 11,dframes 10.0 11, TCS UTC at start (  7h:4m:35.0s)               ,Grism#1
+NCrd170532.fits,K,dframe 10 11,dframes 10.0 11, TCS UTC at start (  7h:7m:20.0s)               ,Grism#1
+NCrd170533.fits,K,dframe 10 11,dframes 10.0 11, TCS UTC at start (  7h:9m:27.0s)               ,Grism#1
+NCrd170534.fits,K,dframe 10 11,dframes 10.0 11, TCS UTC at start ( 7h:11m:41.0s)               ,Grism#1
+NCrd170535.fits,K,dframe 10 11,dframes 10.0 11, TCS UTC at start ( 7h:14m:32.0s)               ,Grism#1
+NCrd170536.fits,K,dframe 10 3,dframes 10.0 3, TCS UTC at start ( 7h:16m:51.0s)               ,Grism#1
+NCrd170537.fits,K,dframe 10 3,dframes 10.0 3, TCS UTC at start ( 7h:17m:45.0s)               ,Grism#1
+NCrd170538.fits,K,dframe 10 3,dframes 10.0 3, TCS UTC at start ( 7h:18m:33.0s)               ,Grism#1
+NCrd170539.fits,K,dframe 10 3,dframes 10.0 3, TCS UTC at start ( 7h:19m:16.0s)               ,Grism#1
+NCrd170540.fits,K,dframe 10 3,dframes 10.0 3, TCS UTC at start ( 7h:19m:58.0s)               ,Grism#1
+NCrd170541.fits,K,dframe 10 3,dframes 10.0 3, TCS UTC at start ( 7h:20m:39.0s)               ,Grism#1

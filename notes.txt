@@ -1,0 +1,88 @@
+%% To do %%
+	* Use 23 fit and 3 fit as error estimate. Checked for 97. Do this for H filter
+	* Adjustable integration range for H band
+	* Separate I(sdep) in setting and rising
+	* Use ANDOR for absolute calibration. || Use SABER instead.
+
+	* Implement find Q85 and Q74 peak for J filter || Pin this one for now
+		¤ Find K band file with long exposure
+		¤ Simplify
+
+¤¤¤¤¤¤¤¤¤¤¤¤¤¤
+Master's stuff
+¤¤¤¤¤¤¤¤¤¤¤¤¤¤
+
+Summer doy 79-266
+
+Archive notes:
+see 4 peaks for expTime > 110s
+def fourth peak for 60s
+Hints of fourth peak for 30 s
+for 7s, maybe shrink even more
+
+Plan:
+
+OHIntensity.m
+	- get masterdark
+	- call getHdata()
+	- call getKdata()
+	- call getJdata()
+	- process data
+
+getHJKdata()
+	- find dark, flat and intensities
+	- Intensity calibration
+
+
+
+
+########################
+Project stuff
+########################
+Check NCyi280180-183, 354-357
+
+Spikes:
+
+ 'NCvf120360'
+ 'NCwf220692'
+ 'NCyg030369'
+ 'NCyi040753'
+ 'NCyi280358'
+
+
+Data is in order of magnitue (1-10)e+4 counts/s
+
+flats are in order of magniture (2-5)e+6 c/s
+	- 2012 weakest
+	- 2016 strongest
+
+darks in order of magnitude (0-5)e+4 c/s
+
+master darks in order 1e+4
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Using master dark and flat
+Total photons/sec from 31 = 3.194090e+22 
+
+Using day specific
+Total photons/sec from 31 = 3.292801e+22 
+
+Difference = 3 %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+Using master dark and 2016 flat (strongest)
+Total photons/sec from 31 = 3.919275e+22  
+
+Using master dark and 2009 flat (weakest)
+Total photons/sec from 31 = 2.620642e+22
+
+Difference 17.3 %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+==================================================
+Transition:  Q31(1)  Q42(1)  Q52(1) Q64(1)
+lambda [um] 1.50559 1.58331 1.66923 1.76515
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Flatfields anomaly on
+july 3 2015 and october 21 2011
+feb 12 2011: Don't use the first one and the last one. Stable
